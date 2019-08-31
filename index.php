@@ -314,9 +314,9 @@
           Product
         </h2>
 
-      <p>
+      <!-- <p>
         Voluptua scripserit per ad, laudem viderer sit ex. Ex alia corrumpit voluptatibus usu, sed unum convenire id. Ut cum nisl moderatius, Per nihil dicant commodo an.
-      </p>
+      </p> -->
     </div>
 
     <div class="portfolio-grid">
