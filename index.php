@@ -66,7 +66,7 @@
         <p class="tagline">
           Stockist 868 Padang Official Website
         </p>
-        <a class="btn btn-full" href="#about">Lihat Sekarang</a>
+        <a class="btn btn-full" href="spirulina">Best Product Spirulina</a>
       </div>
     </div>
 
